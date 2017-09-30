@@ -1,2 +1,2 @@
 # text-analytics
-Infer meaning from "text"
+Shed new light on your data
